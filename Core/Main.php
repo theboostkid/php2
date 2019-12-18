@@ -14,7 +14,7 @@ class Main
         $this->conn = $this->DatabaseConnection();
     }
 
-    public static function DatabaseConnection()
+    public function DatabaseConnection()
     {
         $conn = mysqli_connect($this->host, $this->user, $this->password, $this->db);
         return $conn != false ? $conn : die();
