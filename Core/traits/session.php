@@ -12,4 +12,10 @@ trait Session
     {
         return $_SESSION[$key];
     }
+
+    public static function remove($key)
+    {
+        $_SESSION[$key] = null;
+        return 1;
+    }
 }

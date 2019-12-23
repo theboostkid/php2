@@ -1,4 +1,7 @@
 <?php
+require_once '../Core/traits/query.php';
+require_once '../Core/traits/session.php';
+require_once '../Core/traits/validate.php';
 
 class Main
 {
@@ -8,10 +11,12 @@ class Main
     private $user = "root";
     private $conn = null;
     use Session;
+    use Query;
+    use Validate;
 
     public function __construct()
     {
-        $this->conn = $this->DatabaseConnection();
+
     }
 
     public function DatabaseConnection()
@@ -20,25 +25,9 @@ class Main
         return $conn != false ? $conn : die();
     }
 
-    public function clean($dirt)
+    public function clean($dirt, $conn)
     {
-        return trim(htmlentities(mysqli_real_escape_string($this->conn, $dirt)));
-    }
-
-    public function query($sql, $type = "")
-    {
-        $qry = mysqli_query($this->conn, $this->clean($sql));
-        switch ($type) {
-            case 'assoc':
-                return mysqli_fetch_assoc($qry);
-                break;
-            case 'all':
-                return mysqli_fetch_all($qry, MYSQLI_ASSOC);
-                break;
-            default:
-                return 1;
-                break;
-        }
+        return trim(htmlentities(mysqli_real_escape_string($conn, $dirt)));
     }
 
 }

@@ -1,4 +1,5 @@
 <?php
+require_once '../Core/Main.php';
 
 class Login extends Main
 {
