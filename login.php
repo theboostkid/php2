@@ -16,6 +16,72 @@
     <link rel="stylesheet" href="css/mdb.min.css">
     <!-- Your custom styles (optional) -->
     <link rel="stylesheet" href="css/style.css">
+    <style>
+        .intro-2 {
+            background: url("https://mdbootstrap.com/img/Photos/Others/images/91.jpg")no-repeat center center;
+            background-size: cover;
+        }
+
+        .card {
+            background-color: rgba(229, 228, 255, 0.2);
+        }
+
+        .md-form label {
+            color: #ffffff;
+        }
+
+        h6 {
+            line-height: 1.7;
+        }
+
+        html,
+        body,
+        header,
+        .view {
+            height: 100vh;
+        }
+
+        @media (max-width: 740px) {
+
+            html,
+            body,
+            header,
+            .view {
+                height: 700px;
+            }
+        }
+
+        @media (min-width: 800px) and (max-width: 850px) {
+
+            html,
+            body,
+            header,
+            .view {
+                height: 650px;
+            }
+        }
+
+        .card {
+            margin-top: 30px;
+            /*margin-bottom: -45px;*/
+        }
+
+        .md-form input[type=text]:focus:not([readonly]),
+        .md-form input[type=password]:focus:not([readonly]) {
+            border-bottom: 1px solid #fb5364;
+            box-shadow: 0 1px 0 0 #fb5364;
+        }
+
+        .md-form input[type=text]:focus:not([readonly])+label,
+        .md-form input[type=password]:focus:not([readonly])+label {
+            color: #fb5364;
+        }
+
+        .md-form .form-control {
+            color: #fff;
+        }
+    </style>
+
 </head>
 
 <body>
@@ -47,7 +113,7 @@
                 </li>
 
                 <!-- Dropdown -->
-                <li class="nav-item dropdown">
+                <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="parishes.php">Parishes</a>
                     <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
                         <a class="dropdown-item" href="#">Kingston</a>
@@ -66,7 +132,8 @@
                         <a class="dropdown-item" href="#">St.Catherne</a>
                         <a class="dropdown-item" href="#">St.Thomas</a>
                     </div>
-                </li>
+                </li> -->
+
                 <li class="nav-item">
                     <a class="nav-link" href="contact.php">Contact Us</a>
                 </li>
@@ -163,10 +230,6 @@
             </div>
         </div>
     </section>
-
-    </header>
-    <!--Main Navigation-->
-
     <!-- Footer -->
     <footer class="page-footer font-small blue">
 

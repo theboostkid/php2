@@ -47,7 +47,7 @@
                 </li>
 
                 <!-- Dropdown -->
-                <li class="nav-item dropdown">
+                <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="parishes.php">Parishes</a>
                     <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
                         <a class="dropdown-item" href="#">Kingston</a>
@@ -66,7 +66,7 @@
                         <a class="dropdown-item" href="#">St.Catherne</a>
                         <a class="dropdown-item" href="#">St.Thomas</a>
                     </div>
-                </li>
+                </li> -->
                 <li class="nav-item">
                     <a class="nav-link" href="contact.php">Contact Us</a>
                 </li>
@@ -102,195 +102,228 @@
 
     </nav>
     <!--/.Navbar-->
-    <!-- Table with panel -->
-    <div class="card card-cascade narrower">
+    <!-- Main layout -->
+    <main>
+        <div class="container-fluid pt-4">
 
-        <!--Card image-->
-        <div class="view view-cascade gradient-card-header blue-gradient narrower pt-5 py-5 mx-4 mb-5 d-flex justify-content-between align-items-center">
+            <!-- Section: Team v.1 -->
+            <section class="section team-section mt-4 pt-4">
 
-            <div>
-                <!-- <button type="button" class="btn btn-outline-white btn-rounded btn-sm px-2">
-                    <i class="fas fa-th-large mt-0"></i>
-                </button>
-                <button type="button" class="btn btn-outline-white btn-rounded btn-sm px-2">
-                    <i class="fas fa-columns mt-0"></i>
-                </button> -->
-            </div>
+                <!-- Grid row -->
+                <div class="row text-center">
 
-            <a href="" class="white-text mx-3">User Table</a>
+                    <!-- Grid column -->
+                    <div class="col-md-8 mb-4">
 
-            <div>
-                <button type="button" class="btn btn-outline-white btn-rounded btn-sm px-2">
-                    <i class="fas fa-pencil-alt mt-0"></i>
-                </button>
-                <button type="button" class="btn btn-outline-white btn-rounded btn-sm px-2">
-                    <i class="far fa-trash-alt mt-0"></i>
-                </button>
-                <button type="button" class="btn btn-outline-white btn-rounded btn-sm px-2">
-                    <i class="fas fa-info-circle mt-0"></i>
-                </button>
-            </div>
+                        <!-- Card -->
+                        <div class="card card-cascade cascading-admin-card user-card">
+
+                            <!-- Card Data -->
+                            <div class="admin-up d-flex justify-content-start">
+                                <i class="fas fa-users info-color py-4 mr-3 z-depth-2"></i>
+                                <div class="data">
+                                    <h5 class="font-weight-bold dark-grey-text">Edit Profile - <span class="text-muted">Complete your
+                                            profile</span></h5>
+                                </div>
+                            </div>
+                            <!-- Card Data -->
+
+                            <!-- Card content -->
+                            <div class="card-body card-body-cascade">
+
+                                <!-- Grid row -->
+                                <div class="row">
+
+                                    <!-- Grid column -->
+                                    <div class="col-lg-4">
+
+                                        <div class="md-form form-sm mb-0">
+                                            <input type="text" id="form12" class="form-control form-control-sm">
+                                            <label for="form12" class="">Username</label>
+                                        </div>
+
+                                    </div>
+                                    <!-- Grid column -->
+
+                                    <!-- Grid column -->
+                                    <div class="col-lg-4">
+
+                                        <div class="md-form form-sm mb-0">
+                                            <input type="text" id="form3" class="form-control form-control-sm">
+                                            <label for="form3" class="">Email address</label>
+                                        </div>
+
+                                    </div>
+                                    <!-- Grid column -->
+
+                                    <!-- Grid column -->
+                                    <div class="col-lg-4">
+
+                                        <div class="md-form form-sm mb-0">
+                                            <input type="text" id="form4" class="form-control form-control-sm" disabled>
+                                            <label for="form4" class="disabled">Company</label>
+                                        </div>
+
+                                    </div>
+                                    <!-- Grid column -->
+
+                                </div>
+                                <!-- Grid row -->
+
+                                <!-- Grid row -->
+                                <div class="row">
+
+                                    <!-- Grid column -->
+                                    <div class="col-md-6">
+
+                                        <div class="md-form form-sm mb-0">
+                                            <input type="text" id="form5" class="form-control form-control-sm">
+                                            <label for="form5" class="">First name</label>
+                                        </div>
+
+                                    </div>
+                                    <!-- Grid column -->
+
+                                    <!-- Grid column -->
+                                    <div class="col-md-6">
+
+                                        <div class="md-form form-sm mb-0">
+                                            <input type="text" id="form5" class="form-control form-control-sm">
+                                            <label for="form5" class="">Last name</label>
+                                        </div>
+
+                                    </div>
+                                    <!-- Grid column -->
+
+                                </div>
+                                <!-- Grid row -->
+
+                                <!-- Grid row -->
+                                <div class="row">
+
+                                    <!-- Grid column -->
+                                    <div class="col-md-12">
+
+                                        <div class="md-form form-sm mb-0">
+                                            <input type="text" id="form6" class="form-control form-control-sm">
+                                            <label for="form6" class="">Address</label>
+                                        </div>
+
+                                    </div>
+                                    <!-- Grid column -->
+
+                                </div>
+                                <!-- Grid row -->
+
+                                <!-- Grid row -->
+                                <div class="row">
+
+                                    <!-- Grid column -->
+                                    <div class="col-lg-4 col-md-12">
+
+                                        <div class="md-form form-sm mb-0">
+                                            <input type="text" id="form7" class="form-control form-control-sm">
+                                            <label for="form7" class="">City</label>
+                                        </div>
+
+                                    </div>
+                                    <!-- Grid column -->
+
+                                    <!-- Grid column -->
+                                    <div class="col-lg-4 col-md-6">
+
+                                        <div class="md-form form-sm mb-0">
+                                            <input type="text" id="form8" class="form-control form-control-sm">
+                                            <label for="form8" class="">Country</label>
+                                        </div>
+
+                                    </div>
+                                    <!-- Grid column -->
+
+                                    <!-- Grid column -->
+                                    <div class="col-lg-4 col-md-6">
+
+                                        <div class="md-form form-sm mb-0">
+                                            <input type="text" id="form9" class="form-control form-control-sm">
+                                            <label for="form9" class="">Postal Code</label>
+                                        </div>
+
+                                    </div>
+                                    <!-- Grid column -->
+
+                                </div>
+                                <!-- Grid row -->
+
+                                <!-- Grid row -->
+                                <div class="row">
+
+                                    <!-- Grid column -->
+                                    <div class="col-md-12">
+
+                                        <h4 class="text-muted text-left my-4">About me</h4>
+
+                                        <!-- Basic textarea -->
+                                        <div class="md-form mb-0">
+                                            <textarea type="text" id="form10" class="md-textarea form-control" rows="3"></textarea>
+                                            <label for="form10">Basic textarea</label>
+                                        </div>
+
+                                    </div>
+                                    <!-- Grid column -->
+
+                                </div>
+                                <!-- Grid row -->
+
+                            </div>
+                            <!-- Card content -->
+
+                        </div>
+                        <!-- Card -->
+
+                    </div>
+                    <!-- Grid column -->
+
+                    <!-- Grid column -->
+                    <div class="col-md-4 mb-4">
+
+                        <!-- Card -->
+                        <div class="card profile-card">
+
+                            <!-- Avatar -->
+                            <div class="avatar z-depth-1-half mb-4">
+                                <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(10).jpg" class="rounded-circle" alt="First sample avatar image">
+                            </div>
+
+                            <div class="card-body pt-0 mt-0">
+
+                                <!-- Name -->
+                                <h3 class="mb-3 font-weight-bold"><strong>Anna Deynah</strong></h3>
+                                <h6 class="font-weight-bold cyan-text mb-4">Web Designer</h6>
+
+                                <p class="mt-4 text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                    tempor incididunt
+                                    ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                                    ullamco laboris nisi ut aliquip consequat.</p>
+
+                                <a class="btn btn-info btn-rounded"> Follow</a>
+
+                            </div>
+
+                        </div>
+                        <!-- Card -->
+
+                    </div>
+                    <!-- Grid column -->
+
+                </div>
+                <!-- Grid row -->
+
+            </section>
+            <!-- Section: Team v.1 -->
 
         </div>
-        <!--/Card image-->
-
-        <div class="px-4">
-
-            <div class="table-wrapper table-responsive">
-                <!--Table-->
-                <table class="table table-hover mb-0">
-
-                    <!--Table head-->
-                    <thead>
-                        <tr>
-                            <th>
-                                <input class="form-check-input" type="checkbox" id="checkbox">
-                                <label class="form-check-label" for="checkbox" class="mr-2 label-table"></label>
-                            </th>
-                            <th class="th-lg">
-                                <a>First Name
-                                    <i class="fas fa-sort ml-1"></i>
-                                </a>
-                            </th>
-                            <th class="th-lg">
-                                <a href="">Last Name
-                                    <i class="fas fa-sort ml-1"></i>
-                                </a>
-                            </th>
-                            <th class="th-lg">
-                                <a href="">Gender
-                                    <i class="fas fa-sort ml-1"></i>
-                                </a>
-                            </th>
-                            <th class="th-lg">
-                                <a href="">Date of Birth
-                                    <i class="fas fa-sort ml-1"></i>
-                                </a>
-                            </th>
-                            <th class="th-lg">
-                                <a href="">Country of Birth
-                                    <i class="fas fa-sort ml-1"></i>
-                                </a>
-                            </th>
-                            <th class="th-lg">
-                                <a href="">Profile Picture
-                                    <i class="fas fa-sort ml-1"></i>
-                                </a>
-                            </th>
-                            <th class="th-lg">
-                                <a href="">Address
-                                    <i class="fas fa-sort ml-1"></i>
-                                </a>
-                            </th>
-                            <th class="th-lg">
-                                <a href="">Phone Number
-                                    <i class="fas fa-sort ml-1"></i>
-                                </a>
-                            </th>
-                            <th class="th-lg">
-                                <a href="">Email Address
-                                    <i class="fas fa-sort ml-1"></i>
-                                </a>
-                            </th>
-                            <th class="th-lg">
-                                <a href="">Username
-                                    <i class="fas fa-sort ml-1"></i>
-                                </a>
-                            </th>
-                            <th class="th-lg">
-                                <a href="">Password
-                                    <i class="fas fa-sort ml-1"></i>
-                                </a>
-                            </th>
-
-                        </tr>
-                    </thead>
-                    <!--Table head-->
-
-                    <!--Table body-->
-                    <tbody>
-                        <tr>
-                            <th scope="row">
-                                <input class="form-check-input" type="checkbox" id="checkbox1">
-                                <label class="form-check-label" for="checkbox1" class="label-table"></label>
-                            </th>
-                            <td>Mark</td>
-                            <td>Otto</td>
-                            <td>@mdo</td>
-                            <td>Mark</td>
-                            <td>Otto</td>
-                            <td>@mdo</td>
-                            <td>@mdo</td>
-                            <td>@mdo</td>
-                            <td>@mdo</td>
-                            <td>@mdo</td>
-                            <td>@mdo</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">
-                                <input class="form-check-input" type="checkbox" id="checkbox2">
-                                <label class="form-check-label" for="checkbox2" class="label-table"></label>
-                            </th>
-                            <td>Jacob</td>
-                            <td>Thornton</td>
-                            <td>@fat</td>
-                            <td>Jacob</td>
-                            <td>Thornton</td>
-                            <td>@fat</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">
-                                <input class="form-check-input" type="checkbox" id="checkbox3">
-                                <label class="form-check-label" for="checkbox3" class="label-table"></label>
-                            </th>
-                            <td>Larry</td>
-                            <td>the Bird</td>
-                            <td>@twitter</td>
-                            <td>Larry</td>
-                            <td>the Bird</td>
-                            <td>@twitter</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">
-                                <input class="form-check-input" type="checkbox" id="checkbox4">
-                                <label class="form-check-label" for="checkbox4" class="label-table"></label>
-                            </th>
-                            <td>Paul</td>
-                            <td>Topolski</td>
-                            <td>@P_Topolski</td>
-                            <td>Paul</td>
-                            <td>Topolski</td>
-                            <td>@P_Topolski</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">
-                                <input class="form-check-input" type="checkbox" id="checkbox5">
-                                <label class="form-check-label" for="checkbox5" class="label-table"></label>
-                            </th>
-                            <td>Larry</td>
-                            <td>the Bird</td>
-                            <td>@twitter</td>
-                            <td>Larry</td>
-                            <td>the Bird</td>
-                            <td>@twitter</td>
-                        </tr>
-                    </tbody>
-                    <!--Table body-->
-                </table>
-                <!--Table-->
-            </div>
-
-        </div>
-
-    </div>
-    <!-- Table with panel -->
-
-
-
-
-
-
-    </div>
+    </main>
+    <!-- Main layout -->
     <footer class="page-footer font-small blue">
 
         <!-- Copyright -->

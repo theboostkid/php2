@@ -11,11 +11,11 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
     <!-- Material Design Bootstrap -->
-    <link rel="stylesheet" href="../css/mdb.min.css">
+    <link rel="stylesheet" href="./css/mdb.min.css">
     <!-- Your custom styles (optional) -->
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="./css/style.css">
 </head>
 
 <body>
@@ -246,28 +246,20 @@
                     <!-- Grid column -->
                     <div class="col-lg-6 col-md-12 mb-3 wow fadeIn" data-wow-delay="0.4s">
                         <!-- Image -->
-                        <img src="https://mdbootstrap.com/img/Mockups/Transparent/Small/macbook.png" class="img-fluid rounded" alt="My photo">
+                        <img src="https://cdn.sandals.com/sandals/v12/images/general/destinations/jamaica/jamaica-name-bg.jpg" class="img-fluid rounded" alt="My photo">
                     </div>
                     <!-- Grid column -->
 
                     <!-- Grid column -->
                     <div class="col-lg-6 ml-auto col-md-12 wow fadeIn" data-wow-delay="0.4s">
 
-                        <!-- Secion heading -->
+                        <!-- Section heading -->
                         <h2 class="mb-5 title font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                            <strong>Build your brand with us</strong>
+                            <strong>Experience their Beaches</strong>
                         </h2>
 
                         <!-- Description -->
-                        <p align="justify" class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo animi soluta ratione quisquam, dicta
-                            ab cupiditate iure eaque? Repellendus voluptatum, magni impedit delectus, beatae maxime temporibus
-                            maiores quibusdam.</p>
-                        <p class="grey-text">
-                            <i class="fas fa-long-arrow-alt-right orange-text mr-2" aria-hidden="true"></i> Perferendis iusto sint tempora</p>
-                        <p class="grey-text">
-                            <i class="fas fa-long-arrow-alt-right orange-text mr-2" aria-hidden="true"></i> Lorem ipsum dolor sit amet</p>
-                        <p class="grey-text">
-                            <i class="fas fa-long-arrow-alt-right orange-text mr-2" aria-hidden="true"></i> Repellendus voluptatum, magni</p>
+                        <p align="justify" class="grey-text">Jamaica is a big island with hundreds of miles of coastline, so you'd expect to find a number of great beaches here. Some of the best are located in big resort communities like Montego Bay and Negril, but you can also find great sand, surf, and seaside bars in more overlooked destinations like Port Antonio and Treasure Beach.</p>
                     </div>
                     <!-- Grid column -->
 
@@ -290,18 +282,16 @@
 
                         <!-- Section heading -->
                         <h2 class="mb-5 title font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                            <strong>Easily customizable with great interface</strong>
+                            <strong>Enjoy the best rivers</strong>
                         </h2>
 
                         <!-- Description -->
-                        <p align="justify" class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo animi soluta ratione quisquam, dicta
-                            ab cupiditate iure eaque? Repellendus voluptatum, magni impedit delectus, beatae maxime temporibus
-                            maiores quibusdam.</p>
-                        <p align="justify" class="grey-text">Rem magnam ad perferendis iusto sint tempora ea voluptatibus iure, animi excepturi modi aut possimus
-                            in hic molestias repellendus illo ullam odit quia velit. Lorem ipsum dolor sit amet, consectetur
-                            adipisicing elit.</p>
-                        <p align="justify" class="grey-text">Rem magnam ad perferendis iusto sint tempora ea voluptatibus iure, animi excepturi modi aut possimus
-                            in hic molestias repellendus illo </p>
+                        <p align="justify" class="grey-text">
+                            Jamaica is the third largest island of the Greater Antilles and it is surrounded by the Caribbean Sea. Lying about 90 miles south of Cuba, it is located at an estimated latitude 180 N and longitude 770 W. Its climatic conditions are usually described as tropical, hot, humid, and temperate interior; these are sometimes affected by weather systems such as troughs, cold fronts and upper and low-level low-pressure centres. Other weather systems common to the island include: Tropical Waves, Tropical Depressions, Tropical Storms, and Hurricanes which generally develop between June and November, a period that is officially referred to as the hurricane season. Weather and climatic conditions are monitored by the Meteorological Office of Jamaica.
+                        </p>
+                        <p align="justify" class="grey-text">
+                            There are a number of rivers in Jamaica, most of which emanate in the central mountainous region of the island. They usually flow at a relatively high speed and several of them contain rapids (falls). Rivers that flow south are usually of more length than those which flow north. Rivers that flow south include: Plantain Garden - flows from the Blue Mountains; Yallahs River - flows from Silver Hill Peak; Hope River - emerges close to New Castle; Rio Pedro - flows from Above Rocks; Rio Minho - emerges near Spalding; Milk River - flows from Porus. Among the rivers which flow north are: Rio Grande - rises in the Blue Mountain; Wag Water - rises in the Blue Mountain; White River - emerges near Guys Hill, St. Mary; Martha Brae - rises near Windsor, Trelawny; Montego River - emerges in central St. James; Great River - flows from St. Elizabeth.
+                        </p>
 
                     </div>
                     <!-- Grid column -->
@@ -309,7 +299,7 @@
                     <!-- Grid column -->
                     <div class="col-lg-5 col-md-12 mb-3 wow fadeIn" data-wow-delay="0.4s">
                         <!-- Image -->
-                        <img src="https://cdn.sandals.com/sandals/v12/images/general/destinations/jamaica/jamaica-name-bg.jpg" class="img-fluid rounded" alt="My photo">
+                        <img src="https://images.unsplash.com/photo-1557129604-40e824bb556f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" class="img-fluid rounded" alt="My photo">
                     </div>
                     <!-- Grid column -->
 
@@ -322,206 +312,12 @@
 
         </div>
 
-        <!-- Streak -->
-        <div class="streak streak-photo streak-md" style="background-image: url('https://mdbootstrap.com/img/Photos/Others/images/92.jpg');">
-            <div class="flex-center view rgba-indigo-light">
-                <div class="container py-3">
 
-                    <!--Section: Features v.4-->
-                    <section class="section feature-box wow fadeIn" data-wow-delay="0.2s">
 
-                        <!--Section heading-->
-                        <h2 class="py-5 my-5 white-text font-weight-bold text-center wow fadeIn" data-wow-delay="0.2s">
-                            Why choose SAAS</h2>
+        </section>
+        <!--/Section: Services-->
 
-                        <!--Grid row-->
-                        <div class="row features-small mb-5">
-
-                            <!--Grid column-->
-                            <div class="col-md-12 col-lg-6">
-
-                                <!--Grid row-->
-                                <div class="row mb-5">
-                                    <div class="col-2">
-                                        <a type="button" class="btn-floating white btn-lg my-0">
-                                            <i class="fas fa-tablet-alt blue-text" aria-hidden="true"></i>
-                                        </a>
-                                    </div>
-                                    <div class="col-9 pl-5">
-                                        <h4 class="feature-title white-text">Fully responsive</h4>
-                                        <p class="white-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores.</p>
-                                    </div>
-                                </div>
-                                <!--Grid row-->
-
-                                <!--Grid row-->
-                                <div class="row mb-5">
-                                    <div class="col-2">
-                                        <a type="button" class="btn-floating white btn-lg my-0">
-                                            <i class="fas fa-level-up-alt blue-text" aria-hidden="true"></i>
-                                        </a>
-                                    </div>
-                                    <div class="col-9 pl-5">
-                                        <h4 class="feature-title white-text">Frequent updates</h4>
-                                        <p class="white-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores.</p>
-                                    </div>
-                                </div>
-                                <!--Grid row-->
-
-                                <!--Grid row-->
-                                <div class="row mb-5">
-                                    <div class="col-2">
-                                        <a type="button" class="btn-floating white btn-lg my-0">
-                                            <i class="fas fa-phone blue-text" aria-hidden="true"></i>
-                                        </a>
-                                    </div>
-                                    <div class="col-9 pl-5">
-                                        <h4 class="feature-title white-text">Technical support</h4>
-                                        <p class="white-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam.
-                                        </p>
-                                    </div>
-                                </div>
-                                <!--Grid row-->
-
-                            </div>
-                            <!--Grid column-->
-
-                            <!--Grid column-->
-                            <div class="col-md-12 col-lg-6">
-
-                                <!--Grid row-->
-                                <div class="row mb-5">
-                                    <div class="col-2">
-                                        <a type="button" class="btn-floating white btn-lg my-0">
-                                            <i class="far fa-object-group blue-text" aria-hidden="true"></i>
-                                        </a>
-                                    </div>
-                                    <div class="col-9 pl-5">
-                                        <h4 class="feature-title white-text">Editable layout</h4>
-                                        <p class="white-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam.
-                                        </p>
-                                    </div>
-                                </div>
-                                <!--Grid row-->
-
-                                <!--Grid row-->
-                                <div class="row mb-5">
-                                    <div class="col-2">
-                                        <a type="button" class="btn-floating white btn-lg my-0">
-                                            <i class="fas fa-rocket blue-text" aria-hidden="true"></i>
-                                        </a>
-                                    </div>
-                                    <div class="col-9 pl-5">
-                                        <h4 class="feature-title white-text">Fast and powerful</h4>
-                                        <p class="white-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam.
-                                        </p>
-                                    </div>
-                                </div>
-                                <!--Grid row-->
-
-                                <!--Grid row-->
-                                <div class="row mb-5">
-                                    <div class="col-2">
-                                        <a type="button" class="btn-floating white btn-lg my-0">
-                                            <i class="fas fa-cloud-upload-alt blue-text" aria-hidden="true"></i>
-                                        </a>
-                                    </div>
-                                    <div class="col-9 pl-5">
-                                        <h4 class="feature-title white-text">Cloud storage</h4>
-                                        <p class="white-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam.
-                                        </p>
-                                    </div>
-                                </div>
-                                <!--Grid row-->
-
-                            </div>
-                            <!--Grid column-->
-
-                        </div>
-                        <!--Grid row-->
-
-                    </section>
-                    <!--/Section: Features v.4-->
-                </div>
-            </div>
         </div>
-        <!--/Streak-->
-
-        <div class="container-fluid" style="background-color: #f4f4fa">
-            <div class="container py-4">
-
-                <!--Section: Services-->
-                <section id="services" class="section mt-3 mb-3 pb-3">
-
-                    <!-- Section heading -->
-                    <h3 class="text-center title my-5 pt-4 pb-5 dark-grey-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                        <strong>Easy to get started</strong>
-                    </h3>
-
-                    <!-- First row -->
-                    <div class="row wow fadeIn" data-wow-delay="0.4s">
-
-                        <!-- First column -->
-                        <div class="col-md-4 mb-5 text-center">
-
-                            <!--Panel-->
-                            <div class="card card-body text-left white hoverable">
-                                <p class="feature-title title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
-                                    <i class="fas fa-square orange-text mr-2" aria-hidden="true"></i>
-                                    <strong>01 Create Account</strong>
-                                </p>
-                                <p class="grey-text font-small mx-4">Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente earu
-                                    proident.
-                                </p>
-                            </div>
-                            <!--/.Panel-->
-
-                        </div>
-                        <!-- /First column -->
-
-                        <!-- Second column -->
-                        <div class="col-md-4 mb-5 text-center">
-
-                            <!--Panel-->
-                            <div class="card card-body text-left white hoverable">
-                                <p class="feature-title title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
-                                    <i class="fas fa-square orange-text mr-2" aria-hidden="true"></i>
-                                    <strong>02 Select Plan</strong>
-                                </p>
-                                <p class="grey-text font-small mx-4">Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente earu
-                                    proident.
-                                </p>
-                            </div>
-                            <!--/.Panel-->
-
-                        </div>
-                        <!-- /.Second column -->
-
-                        <!-- Third column -->
-                        <div class="col-md-4 mb-5 text-center">
-
-                            <!--Panel-->
-                            <div class="card card-body text-left white hoverable">
-                                <p class="feature-title title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
-                                    <i class="fas fa-square orange-text mr-2" aria-hidden="true"></i>
-                                    <strong>03 Assign tasks</strong>
-                                </p>
-                                <p class="grey-text font-small mx-4">Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente earu
-                                    proident.
-                                </p>
-                            </div>
-                            <!--/.Panel-->
-
-                        </div>
-                        <!-- /.Third column -->
-
-                    </div>
-                    <!-- /.First row -->
-
-                </section>
-                <!--/Section: Services-->
-
-            </div>
         </div>
         <!--Second container-->
 
@@ -532,11 +328,10 @@
 
                 <!-- Section heading -->
                 <h3 class="text-center title my-5 dark-grey-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                    <strong>True words from our customers</strong>
+                    <strong>Staff Members</strong>
                 </h3>
                 <!-- Section description -->
-                <p class="grey-text w-responsive mx-auto mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error amet numquam iure provident voluptate
-                    esse quasi, veritatis totam voluptas nostrum quisquam eum porro a pariatur accusamus veniam.
+                <p class="grey-text w-responsive mx-auto mb-5">We have a qualified and smart team that is ready to help you learn more about Jamaica.
                 </p>
 
                 <div class="row mt-5 pt-5">
@@ -558,11 +353,11 @@
                             <div class="card-body">
                                 <!--Name-->
                                 <h4 class="mt-1">
-                                    <strong>John Doe</strong>
+                                    <strong>Eli James</strong>
                                 </h4>
                                 <hr>
                                 <!--Quotation-->
-                                <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci.</p>
+                                <p class="dark-grey-text">He is an expert in business and management.</p>
                             </div>
 
                         </div>
@@ -589,11 +384,11 @@
                             <div class="card-body">
                                 <!--Name-->
                                 <h4 class="mt-1">
-                                    <strong>Anna Aston</strong>
+                                    <strong>Daneel Russell</strong>
                                 </h4>
                                 <hr>
                                 <!--Quotation-->
-                                <p class="dark-grey-text">Neque cupiditate assumenda in maiores repudiandae mollitia architecto.</p>
+                                <p class="dark-grey-text">She is an expert on marketing and sales.</p>
                             </div>
 
                         </div>
@@ -619,11 +414,11 @@
                             <div class="card-body">
                                 <!--Name-->
                                 <h4 class="mt-1">
-                                    <strong>Maria Kate</strong>
+                                    <strong>Shirley Blue</strong>
                                 </h4>
                                 <hr>
                                 <!--Quotation-->
-                                <p class="dark-grey-text">Delectus impedit saepe officiis ab aliquam repellat, rem totam unde ducimus.</p>
+                                <p class="dark-grey-text">Shirley is an expert on tourism. </p>
                             </div>
 
                         </div>
@@ -639,130 +434,6 @@
 
         </div>
 
-        <!-- Streak -->
-        <div class="streak streak-photo streak-md" style="background-image: url('https://mdbootstrap.com/img/Photos/Others/architecture.jpg');">
-            <div class="flex-center mask rgba-gradient">
-                <div class="container my-5">
-
-                    <!-- Section heading -->
-                    <h3 class="text-center pb-3 white-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                        <strong>Download our mobile app</strong>
-                    </h3>
-                    <h6 class="text-center white-text pb-4 font-weight-bold wow fadeIn" data-wow-delay="0.2s">Get 30 days trial</h6>
-                    <!--First row-->
-                    <div class="row flex-center">
-
-                        <a class="btn btn-white btn-rounded btn-lg orange-text font-weight-bold ml-0 wow fadeIn" data-wow-delay="0.2s">
-                            <i class="fab fa-android pr-2" aria-hidden="true"></i> Play store</a>
-                        <a class="btn btn-white btn-rounded btn-lg orange-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                            <i class="fab fa-apple pr-2" aria-hidden="true"></i> App store</a>
-                    </div>
-                    <!--First row-->
-
-                </div>
-            </div>
-        </div>
-        <!-- Streak -->
-
-        <!-- Section: Contact v.2 -->
-        <div class="container">
-            <section id="contact" class="section text-center my-5">
-
-                <!-- Section heading -->
-                <h3 class="text-center title my-5 dark-grey-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-                    <strong>Contact us</strong>
-                </h3>
-
-                <!-- Section sescription -->
-                <p class="grey-text w-responsive mx-auto mb-5 wow fadeIn" data-wow-delay="0.2s">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error amet numquam iure provident voluptate
-                    esse quasi, veritatis totam voluptas nostrum quisquam eum porro a pariatur accusamus veniam.
-                </p>
-
-                <div class="row wow fadeIn" data-wow-delay="0.4s">
-
-                    <!-- Grid column -->
-                    <div class="col-md-8 col-lg-9">
-                        <form>
-                            <!-- Grid row -->
-                            <div class="row">
-                                <!-- Grid column -->
-                                <div class="col-md-6">
-                                    <div class="md-form mb-0">
-                                        <div class="md-form mb-0">
-                                            <input type="text" id="form41" class="form-control">
-                                            <label for="form41" class="">Your name</label>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- Grid column -->
-                                <div class="col-md-6">
-                                    <div class="md-form mb-0">
-                                        <div class="md-form mb-0">
-                                            <input type="text" id="form52" class="form-control">
-                                            <label for="form52" class="">Your email</label>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Grid row -->
-
-                            <!-- Grid row -->
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="md-form mb-0">
-                                        <input type="text" id="form51" class="form-control">
-                                        <label for="form51" class="">Subject</label>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Grid row -->
-
-                            <!-- Grid row -->
-                            <div class="row">
-                                <!-- Grid column -->
-                                <div class="col-md-12">
-
-                                    <div class="md-form mb-0">
-                                        <textarea type="text" id="form76" class="md-textarea form-control" rows="3"></textarea>
-                                        <label for="form76">Your message</label>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <!-- Grid row -->
-                        </form>
-
-                        <div class="text-center text-md-left mb-5 mt-4">
-                            <a class="btn btn-rounded btn-white font-weight-bold">Send</a>
-                        </div>
-                    </div>
-                    <!-- Grid column -->
-
-                    <!-- Grid column -->
-                    <div class="col-md-4 col-lg-3">
-                        <ul class="list-unstyled contact-icons float-md-right">
-                            <li>
-                                <i class="fas fa-map-marker-alt fa-2x title"></i>
-                                <p>New York, NY 10012, USA</p>
-                            </li>
-
-                            <li>
-                                <i class="fas fa-phone fa-2x title"></i>
-                                <p>+ 01 234 567 89</p>
-                            </li>
-
-                            <li>
-                                <i class="fas fa-envelope fa-2x title"></i>
-                                <p>contact@gmail.com</p>
-                            </li>
-                        </ul>
-                    </div>
-                    <!-- Grid column -->
-
-                </div>
-            </section>
-            <!-- Section: Contact v.2 -->
 
         </div>
 
@@ -779,39 +450,12 @@
                 <div class="row py-4 d-flex align-items-center">
 
                     <!--Grid column-->
-                    <div class="col-md-6 col-lg-5 text-center text-md-left mb-md-0">
-                        <h6 class="mb-0 white-text">Get connected with us on social networks!</h6>
-                    </div>
-                    <!--Grid column-->
-
-                    <!--Grid column-->
-                    <div class="col-md-6 col-lg-7 text-center text-md-right">
-                        <!--Facebook-->
-                        <a class="p-2 m-2 fa-lg fb-ic ml-0">
-                            <i class="fab fa-facebook-f white-text mr-lg-4"> </i>
-                        </a>
-                        <!--Twitter-->
-                        <a class="p-2 m-2 fa-lg tw-ic">
-                            <i class="fab fa-twitter white-text mr-lg-4"> </i>
-                        </a>
-                        <!--Google +-->
-                        <a class="p-2 m-2 fa-lg gplus-ic">
-                            <i class="fab fa-google-plus-g white-text mr-lg-4"> </i>
-                        </a>
-                        <!--Linkedin-->
-                        <a class="p-2 m-2 fa-lg li-ic">
-                            <i class="fab fa-linkedin-in white-text mr-lg-4"> </i>
-                        </a>
-                        <!--Instagram-->
-                        <a class="p-2 m-2 fa-lg ins-ic">
-                            <i class="fab fa-instagram white-text mr-lg-4"> </i>
-                        </a>
-                    </div>
-                    <!--Grid column-->
-
                 </div>
-                <!--Grid row-->
+                <!--Grid column-->
+
             </div>
+            <!--Grid row-->
+        </div>
         </div>
 
         <!--Footer Links-->
@@ -821,84 +465,28 @@
                 <!--First column-->
                 <div class="col-md-3 col-lg-4 col-xl-3 mb-5">
                     <h6 class="spacing font-weight-bold">
-                        <strong>Company name</strong>
+                        <strong>Jamaica.com</strong>
                     </h6>
                     <hr class="pink accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-                    <p>Here you can use rows and columns here to organize your footer content. Lorem ipsum dolor sit amet, consectetur
-                        adipisicing elit.</p>
+                    <p>We are a website that advertises Jamaica.</p>
                 </div>
                 <!--/.First column-->
 
-                <!--Second column-->
-                <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-5">
-                    <h6 class="spacing font-weight-bold">
-                        <strong>Products</strong>
-                    </h6>
-                    <hr class="pink accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-                    <p>
-                        <a href="#!">MDBootstrap</a>
-                    </p>
-                    <p>
-                        <a href="#!">MDWordPress</a>
-                    </p>
-                    <p>
-                        <a href="#!">BrandFlow</a>
-                    </p>
-                    <p>
-                        <a href="#!">Bootstrap Angular</a>
-                    </p>
-                </div>
-                <!--/.Second column-->
 
-                <!--Third column-->
-                <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-5">
-                    <h6 class="spacing font-weight-bold">
-                        <strong>Useful links</strong>
-                    </h6>
-                    <hr class="pink accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-                    <p>
-                        <a href="#!">Your Account</a>
-                    </p>
-                    <p>
-                        <a href="#!">Become an Affiliate</a>
-                    </p>
-                    <p>
-                        <a href="#!">Shipping Rates</a>
-                    </p>
-                    <p>
-                        <a href="#!">Help</a>
-                    </p>
-                </div>
+
                 <!--/.Third column-->
 
-                <!--Fourth column-->
-                <div class="col-md-4 col-lg-3 col-xl-3">
-                    <h6 class="spacing font-weight-bold">
-                        <strong>Contact</strong>
-                    </h6>
-                    <hr class="pink accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-                    <p>
-                        <i class="fas fa-home mr-3"></i> New York, NY 10012, US</p>
-                    <p>
-                        <i class="fas fa-envelope mr-3"></i> info@example.com</p>
-                    <p>
-                        <i class="fas fa-phone mr-3"></i> + 01 234 567 88</p>
-                    <p>
-                        <i class="fas fa-print mr-3"></i> + 01 234 567 89</p>
+
+            </div>
+            <!--/.Footer Links-->
+
+            <!-- Copyright-->
+            <div class="footer-copyright text-center py-3">
+                <div class="container-fluid">
+                    © 2019 Copyright: <a href="" target="_blank"> jamaica.com </a>
                 </div>
-                <!--/.Fourth column-->
-
             </div>
-        </div>
-        <!--/.Footer Links-->
-
-        <!-- Copyright-->
-        <div class="footer-copyright text-center py-3">
-            <div class="container-fluid">
-                © 2019 Copyright: <a href="https://mdbootstrap.com/education/bootstrap/" target="_blank"> MDBootstrap.com </a>
-            </div>
-        </div>
-        <!--/.Copyright -->
+            <!--/.Copyright -->
 
     </footer>
     <!--/.Footer-->
