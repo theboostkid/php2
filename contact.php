@@ -47,7 +47,7 @@
                 </li>
 
                 <!-- Dropdown -->
-                <li class="nav-item dropdown">
+                <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="parishes.php">Parishes</a>
                     <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
                         <a class="dropdown-item" href="#">Kingston</a>
@@ -66,6 +66,9 @@
                         <a class="dropdown-item" href="#">St.Catherne</a>
                         <a class="dropdown-item" href="#">St.Thomas</a>
                     </div>
+                </li> -->
+                <li class="nav-item">
+                    <a class="nav-link" href="parishes.php">Parishes</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="contact.php">Contact Us</a>
@@ -121,9 +124,8 @@
                                 <!--Section heading-->
                                 <h2 class="font-weight-bold title h1 my-5">Contact us</h2>
                                 <!--Section description-->
-                                <p class="grey-text w-responsive mx-auto mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error amet numquam iure
-                                    provident voluptate esse quasi, veritatis totam voluptas nostrum quisquam eum porro
-                                    a pariatur accusamus veniam.</p>
+                                <p class="grey-text w-responsive mx-auto mb-5">
+                                </p>
 
                                 <div class="row pt-5">
 
@@ -188,7 +190,7 @@
                                         </form>
 
                                         <div class="text-center text-md-left mt-4">
-                                            <a class="btn pink-gradient btn-rounded">Send</a>
+                                            <a class="btn  btn-rounded">Send</a>
                                         </div>
                                     </div>
                                     <!--Grid column-->
@@ -198,17 +200,17 @@
                                         <ul class="list-unstyled contact-icons">
                                             <li>
                                                 <i class="fas fa-map-marker-alt fa-2x orange-text"></i>
-                                                <p>San Francisco, CA 94126, USA</p>
+                                                <p>Jamaica, West Indies </p>
                                             </li>
 
                                             <li>
                                                 <i class="fas fa-phone fa-2x orange-text"></i>
-                                                <p>+ 01 234 567 89</p>
+                                                <p>+ 1 876 879 9877</p>
                                             </li>
 
                                             <li>
                                                 <i class="fas fa-envelope fa-2x orange-text"></i>
-                                                <p>contact@mdbootstrap.com</p>
+                                                <p>contact@jamaica.com</p>
                                             </li>
                                         </ul>
                                     </div>

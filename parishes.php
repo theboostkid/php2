@@ -120,6 +120,9 @@
                     </div>
                 </li> -->
                 <li class="nav-item">
+                    <a class="nav-link" href="parishes.php">Parishes</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="contact.php">Contact Us</a>
                 </li>
 
@@ -156,7 +159,7 @@
     <!--/.Navbar-->
 
     !-- Intro Section -->
-    <div class="view jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url('https://mdbootstrap.com/img/Photos/Others/images/98.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+    <div class="view jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url('https://images.unsplash.com/photo-1503464093195-36b34a0869bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
         <div class="mask rgba-indigo-strong">
             <div class="container h-100 d-flex justify-content-center align-items-center">
                 <div class="row pt-5 mt-3">
@@ -166,20 +169,14 @@
                                 <li>
                                     <h1 class="display-4 mt-md-5 mt-lg-0 mb-5 font-weight-bold white-text wow fadeIn" data-wow-delay="0.3s">
                                         <strong>
-                                            Welcome to our blog</strong>
+                                            Welcome to the 14 Parishes of Jamaica</strong>
                                     </h1>
                                 </li>
                                 <li>
-                                    <h5 class="white-text description mb-5 wow fadeIn" data-wow-delay="0.4s">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem repellendus quasi fuga
-                                        nesciunt dolorum nulla magnam veniam sapiente, fugiat! Commodi sequi non animi
-                                        ea dolor molestiae iste.
+                                    <h5 class="white-text description mb-5 wow fadeIn" data-wow-delay="0.4s">Jamaica is a wonderful Island. This wonderful island is comprised of 14 Parishes.
                                     </h5>
                                 </li>
-                                <li class="wow fadeIn" data-wow-delay="0.4s">
-                                    <a class="btn pink-gradient btn-rounded btn-lg font-weight-bold">Get started</a>
-                                    <a class="btn btn-white btn-rounded btn-lg orange-text font-weight-bold ml-lg-0">
-                                        <i class="fas fa-play-circle orange-text mr-2" aria-hidden="true"></i> Watch demo</a>
-                                </li>
+
                             </ul>
                         </div>
                     </div>
@@ -200,10 +197,9 @@
             <div class="container">
 
                 <!--Section heading-->
-                <h2 class="font-weight-bold my-5 text-center">Recent posts</h2>
+                <h2 class="font-weight-bold my-5 text-center">Parishes</h2>
                 <!--Section description-->
-                <p class="grey-text w-responsive text-center mx-auto mb-5">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
-                    sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p class="grey-text w-responsive text-center mx-auto mb-5"></p>
 
                 <!--Grid row-->
                 <div class="row text-center mb-2">
@@ -212,13 +208,13 @@
                     <div class="col-lg-4 col-md-12 mb-5">
                         <!--Featured image-->
                         <div class="view overlay rounded z-depth-1 mb-2">
-                            <img src="https://mdbootstrap.com/img/Photos/Others/photo8.jpg" class="img-fluid" alt="First sample image">
+                            <img src="https://i.pinimg.com/originals/02/4a/7e/024a7ed414e720e5416725905858cb56.jpg" class="img-fluid" alt="First sample image">
                             <a>
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
 
-                        <h4 class="mb-2 mt-4 font-weight-bold">This is title of the news</h4>
+                        <h4 class="mb-2 mt-4 font-weight-bold">Manchester</h4>
 
                         <!--Grid row-->
                         <div class="row">
@@ -226,22 +222,18 @@
                             <!--Grid column-->
                             <div class="col-lg-6 col-md-6 text-lg-right ">
                                 <p class="grey-text">
-                                    <i class="far fa-clock-o" aria-hidden="true"></i> July 5, 2017</p>
+                                    <i class="far fa-clock-o" aria-hidden="true"></i> </p>
                             </div>
                             <!--Grid column-->
 
                             <!--Grid column-->
-                            <div class="col-lg-6 col-md-6 text-lg-left">
-                                <p class="grey-text">
-                                    <i class="far fa-comment-dots" aria-hidden="true"></i> 6 Comments</p>
-                            </div>
+
                             <!--Grid column-->
 
                         </div>
                         <!--Grid row-->
-                        <p class="dark-grey-text">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime
-                            placeat facere possimus voluptas...</p>
-                        <a class="text-uppercase font-small font-weight-bold spacing">Read more</a>
+                        <p class="dark-grey-text"> </p>
+                        <a class="text-uppercase font-small font-weight-bold spacing"></a>
                         <hr class="mt-1" style="max-width: 90px">
                     </div>
                     <!--Grid column-->
@@ -250,13 +242,13 @@
                     <div class="col-lg-4 col-md-6 mb-5">
                         <!--Featured image-->
                         <div class="view overlay rounded z-depth-1 mb-2">
-                            <img src="https://mdbootstrap.com/img/Photos/Others/photo9.jpg" class="img-fluid" alt="Second sample image">
+                            <img src="http://digjamaica.com/m/wp-content/uploads/12977281_10106237592721069_7477022673538788509_o.jpg" class="img-fluid" alt="Second sample image">
                             <a>
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
 
-                        <h4 class="mb-2 mt-4 font-weight-bold">This is title of the news</h4>
+                        <h4 class="mb-2 mt-4 font-weight-bold">St. Elizabeth</h4>
 
                         <!--Grid row-->
                         <div class="row">
@@ -264,22 +256,22 @@
                             <!--Grid column-->
                             <div class="col-lg-6 col-md-6 text-lg-right">
                                 <p class="grey-text">
-                                    <i class="far fa-clock-o" aria-hidden="true"></i> July 5, 2017</p>
+
                             </div>
                             <!--Grid column-->
 
                             <!--Grid column-->
                             <div class="col-lg-6 col-md-6 text-lg-left">
                                 <p class="grey-text">
-                                    <i class="far fa-comment-dots" aria-hidden="true"></i> 6 Comments</p>
+
                             </div>
                             <!--Grid column-->
 
                         </div>
                         <!--Grid row-->
-                        <p class="dark-grey-text">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime
-                            placeat facere possimus voluptas...</p>
-                        <a class="text-uppercase font-small font-weight-bold spacing">Read more</a>
+                        <p class="dark-grey-text">
+                        </p>
+                        <a class="text-uppercase font-small font-weight-bold spacing"></a>
                         <hr class="mt-1" style="max-width: 90px">
                     </div>
                     <!--Grid column-->
@@ -288,13 +280,13 @@
                     <div class="col-lg-4 col-md-6 mb-5">
                         <!--Featured image-->
                         <div class="view overlay rounded z-depth-1 mb-2">
-                            <img src="https://mdbootstrap.com/img/Photos/Others/photo7.jpg" class="img-fluid" alt="Thrid sample image">
+                            <img src="https://jamaicantotheworld.files.wordpress.com/2018/02/monkeyisland.jpg?w=1280" class="img-fluid" alt="Thrid sample image">
                             <a>
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
 
-                        <h4 class="mb-2 mt-4 font-weight-bold">This is title of the news</h4>
+                        <h4 class="mb-2 mt-4 font-weight-bold">Westmoreland</h4>
 
                         <!--Grid row-->
                         <div class="row">
@@ -302,22 +294,21 @@
                             <!--Grid column-->
                             <div class="col-lg-6 col-md-6 text-lg-right">
                                 <p class="grey-text">
-                                    <i class="far fa-clock-o" aria-hidden="true"></i> July 5, 2017</p>
+                                    <i class="far fa-clock-o" aria-hidden="true"></i> </p>
                             </div>
                             <!--Grid column-->
 
                             <!--Grid column-->
                             <div class="col-lg-6 col-md-6 text-lg-left">
                                 <p class="grey-text">
-                                    <i class="far fa-comment-dots" aria-hidden="true"></i> 6 Comments</p>
+
                             </div>
                             <!--Grid column-->
 
                         </div>
                         <!--Grid row-->
-                        <p class="dark-grey-text">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime
-                            placeat facere possimus voluptas...</p>
-                        <a class="text-uppercase font-small font-weight-bold spacing">Read more</a>
+                        <p class="dark-grey-text"></p>
+                        <a class="text-uppercase font-small font-weight-bold spacing"></a>
                         <hr class="mt-1" style="max-width: 90px">
                     </div>
                     <!--Grid column-->
@@ -332,13 +323,13 @@
                     <div class="col-lg-4 col-md-12 mb-5">
                         <!--Featured image-->
                         <div class="view overlay rounded z-depth-1 mb-2">
-                            <img src="https://mdbootstrap.com/img/Photos/Others/photo4.jpg" class="img-fluid" alt="First sample image">
+                            <img src="https://www.7thheavenproperties.com/wp-content/uploads/2019/03/land-for-sale-hanover-jamaica-1-1.jpg" class="img-fluid" alt="First sample image">
                             <a>
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
 
-                        <h4 class="mb-2 mt-4 font-weight-bold">This is title of the news</h4>
+                        <h4 class="mb-2 mt-4 font-weight-bold">Hanover</h4>
 
                         <!--Grid row-->
                         <div class="row">
@@ -346,22 +337,21 @@
                             <!--Grid column-->
                             <div class="col-lg-6 col-md-6 text-lg-right">
                                 <p class="grey-text">
-                                    <i class="far fa-clock-o" aria-hidden="true"></i> July 5, 2017</p>
+
                             </div>
                             <!--Grid column-->
 
                             <!--Grid column-->
                             <div class="col-lg-6 col-md-6 text-lg-left">
                                 <p class="grey-text">
-                                    <i class="far fa-comment-dots" aria-hidden="true"></i> 6 Comments</p>
+
                             </div>
                             <!--Grid column-->
 
                         </div>
                         <!--Grid row-->
-                        <p class="dark-grey-text">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime
-                            placeat facere possimus voluptas...</p>
-                        <a class="text-uppercase font-small font-weight-bold spacing">Read more</a>
+                        <p class="dark-grey-text"></p>
+                        <a class="text-uppercase font-small font-weight-bold spacing"></a>
                         <hr class="mt-1" style="max-width: 90px">
                     </div>
                     <!--Grid column-->
@@ -370,13 +360,13 @@
                     <div class="col-lg-4 col-md-6 mb-5">
                         <!--Featured image-->
                         <div class="view overlay rounded z-depth-1 mb-2">
-                            <img src="https://mdbootstrap.com/img/Photos/Others/photo1.jpg" class="img-fluid" alt="Second sample image">
+                            <img src="https://r-cf.bstatic.com/images/hotel/max1280x900/308/30824172.jpg" class="img-fluid" alt="Second sample image">
                             <a>
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
 
-                        <h4 class="mb-2 mt-4 font-weight-bold">This is title of the news</h4>
+                        <h4 class="mb-2 mt-4 font-weight-bold">St. James</h4>
 
                         <!--Grid row-->
                         <div class="row">
@@ -384,22 +374,21 @@
                             <!--Grid column-->
                             <div class="col-lg-6 col-md-6 text-lg-right">
                                 <p class="grey-text">
-                                    <i class="far fa-clock-o" aria-hidden="true"></i> July 5, 2017</p>
+
                             </div>
                             <!--Grid column-->
 
                             <!--Grid column-->
                             <div class="col-lg-6 col-md-6 text-lg-left">
                                 <p class="grey-text">
-                                    <i class="far fa-comment-dots" aria-hidden="true"></i> 6 Comments</p>
+
                             </div>
                             <!--Grid column-->
 
                         </div>
                         <!--Grid row-->
-                        <p class="dark-grey-text">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime
-                            placeat facere possimus voluptas...</p>
-                        <a class="text-uppercase font-small font-weight-bold spacing">Read more</a>
+                        <p class="dark-grey-text"></p>
+                        <a class="text-uppercase font-small font-weight-bold spacing"></a>
                         <hr class="mt-1" style="max-width: 90px">
                     </div>
                     <!--Grid column-->
@@ -408,13 +397,13 @@
                     <div class="col-lg-4 col-md-6 mb-5">
                         <!--Featured image-->
                         <div class="view overlay rounded z-depth-1 mb-2">
-                            <img src="https://mdbootstrap.com/img/Photos/Others/laptop1.jpg" class="img-fluid" alt="Thrid sample image">
+                            <img src="https://media-cdn.tripadvisor.com/media/photo-m/1280/19/0a/c9/69/ocean-coral-spring.jpg" class="img-fluid" alt="Thrid sample image">
                             <a>
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
 
-                        <h4 class="mb-2 mt-4 font-weight-bold">This is title of the news</h4>
+                        <h4 class="mb-2 mt-4 font-weight-bold">Trelawny</h4>
 
                         <!--Grid row-->
                         <div class="row">
@@ -422,22 +411,21 @@
                             <!--Grid column-->
                             <div class="col-lg-6 col-md-6 text-lg-right">
                                 <p class="grey-text">
-                                    <i class="far fa-clock-o" aria-hidden="true"></i> July 5, 2017</p>
+
                             </div>
                             <!--Grid column-->
 
                             <!--Grid column-->
                             <div class="col-lg-6 col-md-6 text-lg-left">
                                 <p class="grey-text">
-                                    <i class="far fa-comment-dots" aria-hidden="true"></i> 6 Comments</p>
+
                             </div>
                             <!--Grid column-->
 
                         </div>
                         <!--Grid row-->
-                        <p class="dark-grey-text">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime
-                            placeat facere possimus voluptas...</p>
-                        <a class="text-uppercase font-small font-weight-bold spacing">Read more</a>
+                        <p class="dark-grey-text"></p>
+                        <a class="text-uppercase font-small font-weight-bold spacing"></a>
                         <hr class="mt-1" style="max-width: 90px">
                     </div>
                     <!--Grid column-->
@@ -452,13 +440,13 @@
                     <div class="col-lg-4 col-md-12 mb-5">
                         <!--Featured image-->
                         <div class="view overlay rounded z-depth-1 mb-2">
-                            <img src="https://mdbootstrap.com/img/Photos/Others/photo2.jpg" class="img-fluid" alt="First sample image">
+                            <img src="https://i.ytimg.com/vi/ucXRRVC0OdE/maxresdefault.jpg" class="img-fluid" alt="First sample image">
                             <a>
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
 
-                        <h4 class="mb-2 mt-4 font-weight-bold">This is title of the news</h4>
+                        <h4 class="mb-2 mt-4 font-weight-bold">St.Ann</h4>
 
                         <!--Grid row-->
                         <div class="row">
@@ -466,22 +454,21 @@
                             <!--Grid column-->
                             <div class="col-lg-6 col-md-6 text-lg-right">
                                 <p class="grey-text">
-                                    <i class="far fa-clock-o" aria-hidden="true"></i> July 5, 2017</p>
+
                             </div>
                             <!--Grid column-->
 
                             <!--Grid column-->
                             <div class="col-lg-6 col-md-6 text-lg-left">
                                 <p class="grey-text">
-                                    <i class="far fa-comment-dots" aria-hidden="true"></i> 6 Comments</p>
+
                             </div>
                             <!--Grid column-->
 
                         </div>
                         <!--Grid row-->
-                        <p class="dark-grey-text">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime
-                            placeat facere possimus voluptas...</p>
-                        <a class="text-uppercase font-small font-weight-bold spacing">Read more</a>
+                        <p class="dark-grey-text"></p>
+                        <a class="text-uppercase font-small font-weight-bold spacing"></a>
                         <hr class="mt-1" style="max-width: 90px">
                     </div>
                     <!--Grid column-->
@@ -491,13 +478,13 @@
 
                         <!--Featured image-->
                         <div class="view overlay rounded z-depth-1 mb-2">
-                            <img src="https://mdbootstrap.com/img/Photos/Others/photo10.jpg" class="img-fluid" alt="Second sample image">
+                            <img src="https://previews.123rf.com/images/thedelvitcom/thedelvitcom1806/thedelvitcom180600008/104070405-boat-by-caribbean-sea-t-port-maria-st-mary-jamaica.jpg" class="img-fluid" alt="Second sample image">
                             <a>
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
 
-                        <h4 class="mb-2 mt-4 font-weight-bold">This is title of the news</h4>
+                        <h4 class="mb-2 mt-4 font-weight-bold">St. Mary</h4>
 
                         <!--Grid row-->
                         <div class="row">
@@ -505,23 +492,22 @@
                             <!--Grid column-->
                             <div class="col-lg-6 col-md-6 text-lg-right">
                                 <p class="grey-text">
-                                    <i class="far fa-clock-o" aria-hidden="true"></i> July 5, 2017</p>
+
                             </div>
                             <!--Grid column-->
 
                             <!--Grid column-->
                             <div class="col-lg-6 col-md-6 text-lg-left">
                                 <p class="grey-text">
-                                    <i class="far fa-comment-dots" aria-hidden="true"></i> 6 Comments</p>
+
                             </div>
                             <!--Grid column-->
 
                         </div>
                         <!--Grid row-->
 
-                        <p class="dark-grey-text">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime
-                            placeat facere possimus voluptas...</p>
-                        <a class="text-uppercase font-small font-weight-bold spacing">Read more</a>
+                        <p class="dark-grey-text"></p>
+                        <a class="text-uppercase font-small font-weight-bold spacing"></a>
                         <hr class="mt-1" style="max-width: 90px">
                     </div>
                     <!--Grid column-->
@@ -531,13 +517,13 @@
 
                         <!--Featured image-->
                         <div class="view overlay rounded z-depth-1 mb-2">
-                            <img src="https://mdbootstrap.com/img/Photos/Others/img (45).jpg" class="img-fluid" alt="Thrid sample image">
+                            <img src="http://www.belmontvilla.com/images/headers/portland_coast.jpg" class="img-fluid" alt="Thrid sample image">
                             <a>
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
 
-                        <h4 class="mb-2 mt-4 font-weight-bold">This is title of the news</h4>
+                        <h4 class="mb-2 mt-4 font-weight-bold">Portland</h4>
 
                         <!--Grid row-->
                         <div class="row">
@@ -545,22 +531,21 @@
                             <!--Grid column-->
                             <div class="col-lg-6 col-md-6 text-lg-right">
                                 <p class="grey-text">
-                                    <i class="far fa-clock-o" aria-hidden="true"></i> July 5, 2017</p>
+
                             </div>
                             <!--Grid column-->
 
                             <!--Grid column-->
                             <div class="col-lg-6 col-md-6 text-lg-left">
                                 <p class="grey-text">
-                                    <i class="far fa-comment-dots" aria-hidden="true"></i> 6 Comments</p>
+
                             </div>
                             <!--Grid column-->
 
                         </div>
                         <!--Grid row-->
-                        <p class="dark-grey-text">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime
-                            placeat facere possimus voluptas...</p>
-                        <a class="text-uppercase font-small font-weight-bold spacing">Read more</a>
+                        <p class="dark-grey-text">.</p>
+                        <a class="text-uppercase font-small font-weight-bold spacing"></a>
                         <hr class="mt-1" style="max-width: 90px">
                     </div>
                     <!--Grid column-->
@@ -568,56 +553,204 @@
                 </div>
                 <!--Grid row-->
 
-                <!--Pagination -->
-                <nav class="my-4 flex-center">
-                    <ul class="list-unstyled pagination pagination-circle pg-blue mb-0">
+                <!--Grid row-->
+                <div class="row text-center mb-2">
 
-                        <!--First-->
-                        <li class="page-item disabled clearfix d-none d-md-block">
-                            <a class="page-link">First</a>
-                        </li>
-
-                        <!--Arrow left-->
-                        <li class="page-item disabled">
-                            <a class="page-link" aria-label="Previous">
-                                <span aria-hidden="true">&laquo;</span>
-                                <span class="sr-only">Previous</span>
+                    <!--Grid column-->
+                    <div class="col-lg-4 col-md-12 mb-5">
+                        <!--Featured image-->
+                        <div class="view overlay rounded z-depth-1 mb-2">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/A_View_Of_The_Skyline_In_Kingston%2C_Jamaica.jpg" class="img-fluid" alt="First sample image">
+                            <a>
+                                <div class="mask rgba-white-slight"></div>
                             </a>
-                        </li>
+                        </div>
 
-                        <!--Numbers-->
-                        <li class="page-item active">
-                            <a class="page-link">1</a>
-                        </li>
-                        <li class="page-item">
-                            <a class="page-link">2</a>
-                        </li>
-                        <li class="page-item">
-                            <a class="page-link">3</a>
-                        </li>
-                        <li class="page-item">
-                            <a class="page-link">4</a>
-                        </li>
-                        <li class="page-item">
-                            <a class="page-link">5</a>
-                        </li>
+                        <h4 class="mb-2 mt-4 font-weight-bold">Kingston</h4>
 
-                        <!--Arrow right-->
-                        <li class="page-item">
-                            <a class="page-link" aria-label="Next">
-                                <span aria-hidden="true">&raquo;</span>
-                                <span class="sr-only">Next</span>
+                        <!--Grid row-->
+                        <div class="row">
+
+                            <!--Grid column-->
+                            <div class="col-lg-6 col-md-6 text-lg-right">
+                                <p class="grey-text">
+
+                            </div>
+                            <!--Grid column-->
+
+                            <!--Grid column-->
+                            <div class="col-lg-6 col-md-6 text-lg-left">
+                                <p class="grey-text">
+
+                            </div>
+                            <!--Grid column-->
+
+                        </div>
+                        <!--Grid row-->
+                        <p class="dark-grey-text"></p>
+                        <a class="text-uppercase font-small font-weight-bold spacing"></a>
+                        <hr class="mt-1" style="max-width: 90px">
+                    </div>
+                    <!--Grid column-->
+
+                    <!--Grid column-->
+                    <div class="col-lg-4 col-md-6 mb-5">
+                        <!--Featured image-->
+                        <div class="view overlay rounded z-depth-1 mb-2">
+                            <img src="https://gratestj.files.wordpress.com/2013/12/maryland7.jpg" class="img-fluid" alt="Second sample image">
+                            <a>
+                                <div class="mask rgba-white-slight"></div>
                             </a>
-                        </li>
+                        </div>
 
-                        <!--First-->
-                        <li class="page-item clearfix d-none d-md-block">
-                            <a class="page-link">Last</a>
-                        </li>
+                        <h4 class="mb-2 mt-4 font-weight-bold">St. Andrew</h4>
 
-                    </ul>
-                </nav>
-                <!--/Pagination -->
+                        <!--Grid row-->
+                        <div class="row">
+
+                            <!--Grid column-->
+                            <div class="col-lg-6 col-md-6 text-lg-right">
+                                <p class="grey-text">
+
+                            </div>
+                            <!--Grid column-->
+
+                            <!--Grid column-->
+                            <div class="col-lg-6 col-md-6 text-lg-left">
+                                <p class="grey-text">
+
+                            </div>
+                            <!--Grid column-->
+
+                        </div>
+                        <!--Grid row-->
+                        <p class="dark-grey-text"></p>
+                        <a class="text-uppercase font-small font-weight-bold spacing"></a>
+                        <hr class="mt-1" style="max-width: 90px">
+                    </div>
+                    <!--Grid column-->
+
+                    <!--Grid column-->
+                    <div class="col-lg-4 col-md-6 mb-5">
+                        <!--Featured image-->
+                        <div class="view overlay rounded z-depth-1 mb-2">
+                            <img src="https://i.pinimg.com/originals/ff/e7/4a/ffe74a0ff8a93aa8e646fd348ad593d6.jpg" class="img-fluid" alt="Third sample image">
+                            <a>
+                                <div class="mask rgba-white-slight"></div>
+                            </a>
+                        </div>
+
+                        <h4 class="mb-2 mt-4 font-weight-bold">St. Catherine</h4>
+
+                        <!--Grid row-->
+                        <div class="row">
+
+                            <!--Grid column-->
+                            <div class="col-lg-6 col-md-6 text-lg-right">
+                                <p class="grey-text">
+
+                            </div>
+                            <!--Grid column-->
+
+                            <!--Grid column-->
+                            <div class="col-lg-6 col-md-6 text-lg-left">
+                                <p class="grey-text">
+
+                            </div>
+                            <!--Grid column-->
+
+                        </div>
+                        <!--Grid row-->
+                        <p class="dark-grey-text"></p>
+                        <a class="text-uppercase font-small font-weight-bold spacing"></a>
+                        <hr class="mt-1" style="max-width: 90px">
+                    </div>
+                    <!--Grid column-->
+
+                </div>
+                <!--Grid row-->
+
+                <!--Grid row-->
+                <div class="row text-center mb-2">
+
+                    <!--Grid column-->
+                    <div class="col-lg-4 col-md-12 mb-5">
+                        <!--Featured image-->
+                        <div class="view overlay rounded z-depth-1 mb-2">
+                            <img src="https://i.pinimg.com/originals/ff/e7/4a/ffe74a0ff8a93aa8e646fd348ad593d6.jpg" class="img-fluid" alt="First sample image">
+                            <a>
+                                <div class="mask rgba-white-slight"></div>
+                            </a>
+                        </div>
+
+                        <h4 class="mb-2 mt-4 font-weight-bold">Clarendon</h4>
+
+                        <!--Grid row-->
+                        <div class="row">
+
+                            <!--Grid column-->
+                            <div class="col-lg-6 col-md-6 text-lg-right">
+                                <p class="grey-text">
+
+                            </div>
+                            <!--Grid column-->
+
+                            <!--Grid column-->
+                            <div class="col-lg-6 col-md-6 text-lg-left">
+                                <p class="grey-text">
+
+                            </div>
+                            <!--Grid column-->
+
+                        </div>
+                        <!--Grid row-->
+                        <p class="dark-grey-text"></p>
+                        <a class="text-uppercase font-small font-weight-bold spacing"></a>
+                        <hr class="mt-1" style="max-width: 90px">
+                    </div>
+                    <!--Grid column-->
+
+                    <!--Grid column-->
+                    <div class="col-lg-4 col-md-6 mb-5">
+                        <!--Featured image-->
+                        <div class="view overlay rounded z-depth-1 mb-2">
+                            <img src="https://adventuresfromelle.files.wordpress.com/2017/02/img_5939_wm.jpg?w=1024" class="img-fluid" alt="Second sample image">
+                            <a>
+                                <div class="mask rgba-white-slight"></div>
+                            </a>
+                        </div>
+
+                        <h4 class="mb-2 mt-4 font-weight-bold">St. Thomas</h4>
+
+                        <!--Grid row-->
+                        <div class="row">
+
+                            <!--Grid column-->
+                            <div class="col-lg-6 col-md-6 text-lg-right">
+                                <p class="grey-text">
+
+                            </div>
+                            <!--Grid column-->
+
+                            <!--Grid column-->
+                            <div class="col-lg-6 col-md-6 text-lg-left">
+                                <p class="grey-text">
+
+                            </div>
+                            <!--Grid column-->
+
+                        </div>
+                        <!--Grid row-->
+                        <p class="dark-grey-text"></p>
+                        <a class="text-uppercase font-small font-weight-bold spacing"></a>
+                        <hr class="mt-1" style="max-width: 90px">
+                    </div>
+                    <!--Grid column-->
+
+
+
+                </div>
+                <!--Grid row-->
 
             </div>
 
@@ -635,9 +768,8 @@
                         <div class="col-lg-4 col-md-12">
                             <h6 class="font-weight-bold mt-5 mb-3">ABOUT</h6>
                             <hr class="mb-5">
-                            <img src="https://mdbootstrap.com/img/Photos/Slides/img (108).jpg" alt="sample image" class="img-fluid rounded z-depth-1">
-                            <p class="mt-4 mb-5">Sed ut in perspiciatis unde omnis iste natus error sit on i tatem accusantium doloremque laudantium,
-                                totam rem aperiam, eaque ipsa quae.</p>
+                            <img src="h" alt="sample image" class="img-fluid rounded z-depth-1">
+                            <p class="mt-4 mb-5"></p>
                         </div>
                         <!--Grid column-->
 

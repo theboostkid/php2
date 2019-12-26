@@ -161,7 +161,7 @@
 
                                         <div class="md-form form-sm mb-0">
                                             <input type="text" id="form4" class="form-control form-control-sm" disabled>
-                                            <label for="form4" class="disabled">Company</label>
+                                            <label for="form4" class="">Gender</label>
                                         </div>
 
                                     </div>
@@ -234,7 +234,7 @@
 
                                         <div class="md-form form-sm mb-0">
                                             <input type="text" id="form8" class="form-control form-control-sm">
-                                            <label for="form8" class="">Country</label>
+                                            <label for="form8" class="">Country </label>
                                         </div>
 
                                     </div>
@@ -245,7 +245,7 @@
 
                                         <div class="md-form form-sm mb-0">
                                             <input type="text" id="form9" class="form-control form-control-sm">
-                                            <label for="form9" class="">Postal Code</label>
+                                            <label for="form9" class=""> Date of Birth</label>
                                         </div>
 
                                     </div>
@@ -259,15 +259,20 @@
 
                                     <!-- Grid column -->
                                     <div class="col-md-12">
+                                        <div class=col-md-6>
 
-                                        <h4 class="text-muted text-left my-4">About me</h4>
-
-                                        <!-- Basic textarea -->
-                                        <div class="md-form mb-0">
-                                            <textarea type="text" id="form10" class="md-textarea form-control" rows="3"></textarea>
-                                            <label for="form10">Basic textarea</label>
+                                            <div class="md-form form-sm mb-0">
+                                                <input type="number" id="form12" class="form-control form-control-sm">
+                                                <label for="form12" class="">Phone Number</label>
+                                            </div>
                                         </div>
+                                        <div class=col-md-6>
 
+                                            <div class="md-form form-sm mb-0">
+                                                <input type="text" id="form12" class="form-control form-control-sm">
+                                                <label for="form12" class="">Password</label>
+                                            </div>
+                                        </div>
                                     </div>
                                     <!-- Grid column -->
 
@@ -291,21 +296,18 @@
 
                             <!-- Avatar -->
                             <div class="avatar z-depth-1-half mb-4">
-                                <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(10).jpg" class="rounded-circle" alt="First sample avatar image">
+                                <img src="" class="rounded-circle" alt="First sample avatar image">
                             </div>
 
                             <div class="card-body pt-0 mt-0">
 
                                 <!-- Name -->
-                                <h3 class="mb-3 font-weight-bold"><strong>Anna Deynah</strong></h3>
+                                <h3 class="mb-3 font-weight-bold"><strong>Timothy Russell</strong></h3>
                                 <h6 class="font-weight-bold cyan-text mb-4">Web Designer</h6>
 
-                                <p class="mt-4 text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                    tempor incididunt
-                                    ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                    ullamco laboris nisi ut aliquip consequat.</p>
+                                <p class="mt-4 text-muted"></p>
 
-                                <a class="btn btn-info btn-rounded"> Follow</a>
+
 
                             </div>
 
