@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="css/style.css">
     <style>
         .intro-2 {
-            background: url("https://mdbootstrap.com/img/Photos/Others/forest1.jpg")no-repeat center center;
+            background: url("https://images.unsplash.com/photo-1533253807400-53e0830db407?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80")no-repeat center center;
             background-size: cover;
         }
 
@@ -210,124 +210,184 @@
                                 <!--Grid row-->
                                 <div class="row mt-5">
 
-                                    <!--Grid column-->
-                                    <div class="col-md-6 ml-lg-5 ml-md-3 features-small">
+                                    <!-- Card content -->
+                                    <div class="card-body card-body-cascade">
 
-                                        <!--Grid row-->
-                                        <div class="row pb-3">
-                                            <div class="col-2 col-lg-1">
-                                                <i class="fas fa-university indigo-text fa-lg"></i>
-                                            </div>
-                                            <div class="col-10">
-                                                <h4 class="feature-title">
-                                                    <strong>Safety</strong>
-                                                </h4>
-                                                <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit
-                                                    maiores nam, aperiam minima assumenda deleniti hic.</p>
-                                            </div>
-                                        </div>
-                                        <!--Grid row-->
+                                        <!-- Grid row -->
+                                        <div class="row">
 
-                                        <!--Grid row-->
-                                        <div class="row pb-3">
-                                            <div class="col-2 col-lg-1">
-                                                <i class="fas fa-desktop indigo-text fa-lg"></i>
-                                            </div>
-                                            <div class="col-10">
-                                                <h4 class="feature-title">
-                                                    <strong>Technology</strong>
-                                                </h4>
-                                                <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit
-                                                    maiores nam, aperiam minima assumenda deleniti hic.</p>
-                                            </div>
-                                        </div>
-                                        <!--Grid row-->
+                                            <!-- Grid column -->
+                                            <div class="col-lg-4">
 
-                                        <!--Grid row-->
-                                        <div class="row pb-4">
-                                            <div class="col-2 col-lg-1">
-                                                <i class="far fa-money-bill-alt indigo-text fa-lg"></i>
+                                                <div class="md-form form-sm mb-0">
+                                                    <input type="text" id="form12" class="form-control form-control-sm">
+                                                    <label for="form12" class="">Username</label>
+                                                </div>
+
                                             </div>
-                                            <div class="col-10">
-                                                <h4 class="feature-title">
-                                                    <strong>Finance</strong>
-                                                </h4>
-                                                <p class="dark-grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit
-                                                    maiores nam, aperiam minima assumenda deleniti hic.</p>
+                                            <!-- Grid column -->
+
+                                            <!-- Grid column -->
+                                            <div class="col-lg-4">
+
+                                                <div class="md-form form-sm mb-0">
+                                                    <input type="text" id="form3" class="form-control form-control-sm">
+                                                    <label for="form3" class="">Email address</label>
+                                                </div>
+
                                             </div>
+                                            <!-- Grid column -->
+
+                                            <!-- Grid column -->
+                                            <div class="col-lg-4">
+
+                                                <div class="md-form form-sm mb-0">
+                                                    <input type="text" id="form4" class="form-control form-control-sm" disabled>
+                                                    <label for="form4" class="">Gender</label>
+                                                </div>
+
+                                            </div>
+                                            <!-- Grid column -->
+
                                         </div>
-                                        <!--Grid row-->
+                                        <!-- Grid row -->
+
+                                        <!-- Grid row -->
+                                        <div class="row">
+
+                                            <!-- Grid column -->
+                                            <div class="col-md-6">
+
+                                                <div class="md-form form-sm mb-0">
+                                                    <input type="text" id="form5" class="form-control form-control-sm">
+                                                    <label for="form5" class="">First name</label>
+                                                </div>
+
+                                            </div>
+                                            <!-- Grid column -->
+
+                                            <!-- Grid column -->
+                                            <div class="col-md-6">
+
+                                                <div class="md-form form-sm mb-0">
+                                                    <input type="text" id="form5" class="form-control form-control-sm">
+                                                    <label for="form5" class="">Last name</label>
+                                                </div>
+
+                                            </div>
+                                            <!-- Grid column -->
+
+                                        </div>
+                                        <!-- Grid row -->
+
+                                        <!-- Grid row -->
+                                        <div class="row">
+
+                                            <!-- Grid column -->
+                                            <div class="col-md-12">
+
+                                                <div class="md-form form-sm mb-0">
+                                                    <input type="text" id="form6" class="form-control form-control-sm">
+                                                    <label for="form6" class="">Address</label>
+                                                </div>
+
+                                            </div>
+                                            <!-- Grid column -->
+
+                                        </div>
+                                        <!-- Grid row -->
+
+                                        <!-- Grid row -->
+                                        <div class="row">
+
+                                            <!-- Grid column -->
+                                            <div class="col-lg-4 col-md-12">
+
+                                                <div class="md-form form-sm mb-0">
+                                                    <input type="text" id="form7" class="form-control form-control-sm">
+                                                    <label for="form7" class="">City</label>
+                                                </div>
+
+                                            </div>
+                                            <!-- Grid column -->
+
+                                            <!-- Grid column -->
+                                            <div class="col-lg-4 col-md-6">
+
+                                                <div class="md-form form-sm mb-0">
+                                                    <input type="text" id="form8" class="form-control form-control-sm">
+                                                    <label for="form8" class="">Country </label>
+                                                </div>
+
+                                            </div>
+                                            <!-- Grid column -->
+
+                                            <!-- Grid column -->
+                                            <div class="col-lg-4 col-md-6">
+
+                                                <div class="md-form form-sm mb-0">
+                                                    <input type="text" id="form9" class="form-control form-control-sm">
+                                                    <label for="form9" class=""> Date of Birth</label>
+                                                </div>
+
+                                            </div>
+                                            <!-- Grid column -->
+
+                                        </div>
+                                        <!-- Grid row -->
+
+                                        <!-- Grid row -->
+                                        <div class="row">
+
+                                            <!-- Grid column -->
+                                            <div class="col-md-12">
+                                                <div class=col-md-6>
+
+                                                    <div class="md-form form-sm mb-0">
+                                                        <input type="number" id="form12" class="form-control form-control-sm">
+                                                        <label for="form12" class="">Phone Number</label>
+                                                    </div>
+                                                </div>
+                                                <div class=col-md-6>
+
+                                                    <div class="md-form form-sm mb-0">
+                                                        <input type="text" id="form12" class="form-control form-control-sm">
+                                                        <label for="form12" class="">Password</label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- Grid column -->
+
+                                        </div>
+                                        <!-- Grid row -->
 
                                     </div>
-                                    <!--Grid column-->
-
-                                    <!--Grid column-->
-                                    <div class="col-md-5">
-
-                                        <!--Grid row-->
-                                        <div class="row pb-4 d-flex justify-content-center mb-4">
-
-                                            <h4 class="mt-3 mr-4">
-                                                <strong>Login with</strong>
-                                            </h4>
-
-                                            <div class="inline-ul text-center d-flex justify-content-center">
-                                                <a class="p-2 m-2 fa-lg tw-ic">
-                                                    <i class="fab fa-twitter fa-lg orange-text"></i>
-                                                </a>
-                                                <a class="p-2 m-2 fa-lg li-ic">
-                                                    <i class="fab fa-linkedin-in fa-lg orange-text"> </i>
-                                                </a>
-                                                <a class="p-2 m-2 fa-lg ins-ic">
-                                                    <i class="fab fa-instagram fa-lg orange-text"> </i>
-                                                </a>
-                                            </div>
-
-                                            <h4 class="mt-3 ml-4">
-                                                <strong>or:</strong>
-                                            </h4>
-
-                                        </div>
-                                        <!--/Grid row-->
-
-                                        <!--Body-->
-                                        <div class="md-form mb-0">
-                                            <i class="fas fa-user prefix dark-grey-text"></i>
-                                            <input type="text" id="orangeForm-name" class="form-control">
-                                            <label for="orangeForm-name">Your name</label>
-                                        </div>
-                                        <div class="md-form mb-0">
-                                            <i class="fas fa-envelope prefix dark-grey-text"></i>
-                                            <input type="text" id="orangeForm-email" class="form-control">
-                                            <label for="orangeForm-email">Your email</label>
-                                        </div>
-
-                                        <div class="md-form mb-0">
-                                            <i class="fas fa-lock prefix dark-grey-text"></i>
-                                            <input type="password" id="orangeForm-pass" class="form-control">
-                                            <label for="orangeForm-pass">Your password</label>
-                                        </div>
-
-                                        <div class="text-center">
-                                            <button class="btn pink-gradient btn-rounded mt-3">Sign up</button>
-                                        </div>
-
-                                    </div>
-                                    <!--Grid column-->
+                                    <!-- Card content -->
 
                                 </div>
-                                <!--Grid row-->
+                                <!-- Card -->
+
+
+                                <div class="text-center">
+                                    <button class="btn btn-rounded mt-3 mb-3">Sign up</button>
+                                </div>
 
                             </div>
+                            <!--Grid column-->
+
                         </div>
+                        <!--Grid row-->
 
                     </div>
-                    <!--Grid column-->
-
                 </div>
-                <!--Grid row-->
 
             </div>
+            <!--Grid column-->
+
+        </div>
+        <!--Grid row-->
+
+        </div>
     </section>
 
 
